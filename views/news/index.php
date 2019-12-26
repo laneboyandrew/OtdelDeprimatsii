@@ -121,7 +121,8 @@
                 <div class="col-12 col-md-8 offset-md-2">
                     <div class="page-header mb-5">
                         <h2 id="colours">Colours</h2>
-                        <p>We have improved the Bootstrap colour selection with a brighter variation. All the components from the kit will have variations for each one of this contextual classes.</p>
+                        <p>We have improved the Bootstrap colour selection with a brighter variation. All the components
+                            from the kit will have variations for each one of this contextual classes.</p>
                     </div>
 
 
